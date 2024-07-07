@@ -76,7 +76,7 @@ function Socialshare({ text }) {
 
           <Snippet
             codeString={text}
-            symbol="Copy Social Text/Hashtags"
+            symbol="Copy the Social Text/Hashtags"
             variant="flat"
             color="default"
             // className="bg-transparent"
