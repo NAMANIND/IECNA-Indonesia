@@ -80,7 +80,7 @@ function Ig() {
         <motion.div
           initial={offscreen3}
           whileInView={onscreen3}
-          viewport={{ once: true, amount: 0.3 }}
+          viewport={{ once: true, amount: 0.1 }}
           className="relative left-0 md:top-10 top-4"
         >
           <Image
