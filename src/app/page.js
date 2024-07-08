@@ -28,6 +28,7 @@ export default function Home() {
       <Speakercard />
 
       <div className="bg-white w-full">
+        <Ig />
         <Missing />
       </div>
       <div className="bg-black w-full flex justify-center items-center">
